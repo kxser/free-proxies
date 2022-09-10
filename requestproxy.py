@@ -36,5 +36,5 @@ def get_proxies():
                     print(f"{colorama.Fore.BLUE}Proxy found: {proxy_element}{colorama.Fore.RESET}")
             except Exception:
                 break
-
+## All of the good proxies are stored in checkedproxies ([])
 
